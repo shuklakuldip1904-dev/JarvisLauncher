@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JarvisLauncher</string>
+    <string name="accessibility_service_label">Jarvis Assistant</string>
+    <string name="accessibility_service_description">Reads visible window text and performs requested scroll gestures to help control your device.</string>
+</resources>
